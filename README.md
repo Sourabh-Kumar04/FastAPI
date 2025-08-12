@@ -372,8 +372,8 @@ Passionate about AI/ML and software development, exploring modern web technologi
 
 - 🌐 **GitHub:** [@Sourabh-Kumar04](https://github.com/Sourabh-Kumar04)
 - 🎓 **University:** University of Delhi (Computer Science)
-- 🏆 **Achievement:** AWS AI/ML Scholar 2024
-- 💼 **Focus:** Python, C++, AI/ML, Web Development
+<!-- - 🏆 **Achievement:** AWS AI/ML Scholar 2024
+- 💼 **Focus:** Python, C++, AI/ML, Web Development -->
 
 ---
 
